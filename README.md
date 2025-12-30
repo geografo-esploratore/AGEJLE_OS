@@ -20,8 +20,7 @@ Science Mission Directorate (SMD) Transform to Open Science (TOPS) award:
 ## Project Overview
 
 AGEJLE-OS was a capacity-building and convening project focused on strengthening community-led,
-academically supported open science in the U.S. Gulf South. The project supported environmental
-justice (EJ) organizations and academic partners in developing open-science skills, collaborative
+academically supported open science in the U.S. Gulf South. The project supported community-enngaged organizations and academic partners in developing open-science skills, collaborative
 research concepts, and competitive proposals using NASA Earth science data.
 
 The project aligned with:
@@ -49,10 +48,10 @@ AGEJLE-OS objectives were to:
 This repository contains open and reusable products generated through AGEJLE-OS, including:
 
 - **Curriculum materials** for community-engaged open science research  
-- **Literature review** supporting EJ-focused open science and Earth science to action  
+- **Literature scan** supporting community-led open science and Earth science to action  
 - **Documentation** of project deliverables and open science practices  
-- **Links to Zenodo archives** containing presentations and abstracts  
+- **Presentations and documents that are also in Zenodo archives** containing presentations and abstracts  
 
-Directory overview:
+
 
 
